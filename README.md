@@ -30,3 +30,41 @@ A good rule of thumb is to ONLY replace 96x96 (large) tile sized maps with other
 only the 64x64 (small) tile sized maps should be replaced by other 64x64 (small) tile sized maps. Though users can have custom maps with a 64x64 tile replacing a 96x96 with minimal issues. You *can* replace whatever maps you want if you only plan on only doing 1-3 but the more maps you replace, the more than likely you will have to follow this rule.
 
 If you are planning on using the difficulty patch, keep in mind that you have to replace every single ".map" file one at a time, There is no quick way to load multiple maps at once currently.
+
+> Map Credits
+> [Ryncat]
+- Crater lake v5 fix
+- Delta division (Delta Crossing)
+- Forest of fate (small + large)
+- Foxtrot Tunnels
+- Troll Island 2
+- Supply Lines 1 (Not the vanilla version)
+- Davy Jones Locker
+- Earth
+- Junk Island
+- Updated USA
+- All of the Map "improvements"/"fixes" (Except Outbreak 2 and Exiled)
+- Zeta Terra
+- Desert Bus (Danman Helped with the concept)
+- The Difficulty Patches
+
+> [Dream Foxtrot]
+- Eleventh Hour 2.0 + 5.0
+- Dream Foxtrot tunnels (An edit of Ryncat's Foxtrot Tunnels)
+- Dead Mans Landing
+- Ground Zero (PVP + PVE)
+- Exiled (Map "Improvement")
+- Outbreak 2 (Map "Improvement")
+- High Tide (PVP + PVE)
+- Endroxia
+
+> [Liru]
+- Roundabout
+- Left On Red
+- Mirror Match
+
+> [Shrip]
+- Emergency Meeting (Amongus Map)
+
+> Danman
+- Cargo Ship (Drew the whole Concept, Ryncat just made the map playable)
